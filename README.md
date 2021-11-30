@@ -1,11 +1,8 @@
-# Physiological Signal Classification Papers
-
-
-## Paper lists categorized by signal type
+# Semnale Fiziologice
 
 ### EEG
 
-| Task/Application                                             | Title                                                        |         Model         |                 Publication                  | Year |
+| Aplicatie                                             | Titlu                                                        |         Model         |                 Publicatie                  | An |
 | ------------------------------------------------------------ | :----------------------------------------------------------- | :-------------------: | :------------------------------------------: | :--: |
 | Motor  Imagery                                               | MMCNN:  A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery  Classification |          CNN          |                  ECML PKDD                   | 2021 |
 | Motor  Imagery                                               | Motor  imagery EEG recognition based on conditional optimization empirical mode  decomposition and multi-scale convolutional neural network |          CNN          |              Expert  Syst Appl               | 2020 |
@@ -263,8 +260,8 @@
 
 ### ECG
 
-| Task/Application                                     | Title                                                        |              Model               |              Publication               | Year |
-| ---------------------------------------------------- | ------------------------------------------------------------ | :------------------------------: | :------------------------------------: | :--: |
+| Aplicatie                                             | Titlu                                                        |         Model         |                 Publicatie                  | An |
+| ------------------------------------------------------------ | :----------------------------------------------------------- | :-------------------: | :------------------------------------------: | :--: |
 | Disease Detection                                    | Ml–resnet:  a novel network to detect and locate myocardial infarction using 12 leads ecg |               CNN                |    Comput.  Methods Progr. Biomed.     | 2020 |
 | Disease Detection                                    | Multi-branch  fusion network for myocardial infarction screening from 12-lead ecg images |               CNN                |    Comput.  Methods Progr. Biomed.     | 2020 |
 | Disease Detection                                    | Transfer  learning in ecg classification from human to horse using a novel parallel  neural network architecture |               CNN                |               Sci.  Rep.               | 2020 |
@@ -478,7 +475,7 @@
 
 ### EMG
 
-| Task/Application                                            | Title                                                        |  Model   |               Publication               | Year |
+| Aplicatie                                          | Titlu                                                        |  Model   |               Publicatie               | An |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | :------: | :-------------------------------------: | :--: |
 | Hand gesture classification                                 | CNN-Based  Detection and Classification of Grasps Relevant for Worker Support Scenarios  Using sEMG Signals of Forearm Muscles |   CNN    |                IEEE  SMC                | 2019 |
 | Hand gesture classification                                 | Deep  Reinforcement Learning Apply in Electromyography Data Classification |   CNN    |                IEEE  CBS                | 2019 |
@@ -554,43 +551,10 @@
 
 
 
-### EOG
 
-| Task/Application            | Title                                                        | Model |          Publication           | Year |
-| --------------------------- | ------------------------------------------------------------ | :---: | :----------------------------: | :--: |
-| Sleep stage  classification | Interactive sleep stage labelling tool for  diagnosing sleep disorder using deep learning |  RNN  |           IEEE  EMBC           | 2018 |
-| Help paralyzed persons      | Nine states HCI using  electrooculogram and neural networks  |  NN   |              IJET              | 2017 |
-| Help paralyzed persons      | EOG signal  classification using neural network for human computer interaction |  NN   |             IJCTA              | 2016 |
-| Help paralyzed persons      | Classification of eye  movements using electrooculography and neural networks |  NN   |             IJHCI              | 2014 |
-| Help paralyzed persons      | Idendifying eye  movements using neural networks for human computer interaction |  NN   |              IJCA              | 2014 |
-| Help paralyzed persons      | A novel efficient  human computer interface using an electrooculogram | SFCM  |             IJRET              | 2014 |
-| Help paralyzed persons      | An EOG-based sleep  monitoring system and its application on on-line sleep-stage sensitive light  control |  LDA  |             PhyCS              | 2014 |
-| Help paralyzed persons      | Recognition of eye  movementelectrooculogram signalsusing dynamic neuralnetworks |  NN   |              KJCS              | 2013 |
-| Help paralyzed persons      | Natural eye movement  & its application for paralyzed patients |  KNN  |             IJETT              | 2013 |
-| Help paralyzed persons      | Development strategy  of eye movement controlled rehabilitation aid using electrooculogram |  NN   |             IJSER              | 2012 |
-| Help paralyzed persons      | HMM based continuous  EOG recognition for eye-input speech interface |  HMM  |              ISCA              | 2012 |
-| Help paralyzed persons      | Electro occulogram  based interactive robotic arm interface for partially paralytic patients | MCDFA |             IJITEE             | 2012 |
-| Help paralyzed persons      | EOG-based visual  navigation interface development           | MCDFA |              ESA               | 2012 |
-| Help paralyzed persons      | Research on  electrooculography classification based on multiple features |  SVM  |             IJDCTA             | 2012 |
-| Help paralyzed persons      | Online voluntary eye  blink detection using electrooculogram |  SVM  | Int Symp Nonlinear  Theor Appl | 2012 |
-| Help paralyzed persons      | A novel human-machine  interface based on recognition of multi-chNNel facial bioelectric signals | SFCM  |             APESM              | 2011 |
-| Help paralyzed persons      | Considerations on  strategies to improve EOG signal analysis |  LDA  |           ACM IJALR            | 2011 |
-| Help paralyzed persons      | On the use of  electrooculogram for efficient human computer interfaces |  KNN  |              CIN               | 2010 |
-| Help paralyzed persons      | Human  electrooculography interface                          |  KNN  |  Lisbon Technical  University  | 2010 |
-| Help paralyzed persons      | Eye movement analysis  for activity recognition using electrooculographgy |  SVM  |           IEEE TPAMI           | 2010 |
-| Help paralyzed persons      | A feasibility study  of an eye-writing system based on electro-oculography | SFCM  |              JMBE              | 2008 |
-| Help paralyzed persons      | Electrooculogram  classification of microcontroller based interface system | MCDFA |             SIEDS              | 2007 |
-| Help paralyzed persons      | Eye computer  interface (ECI) and human machine interface applications to help handicapped  persons |  NN   |             TOJEEE             | 2006 |
-| Help paralyzed persons      | Classification of  electro-oculogram signals using artificial neural network |  NN   |              ESA               | 2006 |
-| Help paralyzed persons      | A biosignal-based  human interface controlling a power-wheelchair for people with motor  disabilities |  HMM  |             ETRIJ              | 2006 |
-| Help paralyzed persons      | System for assisted  mobility using eye movements based on electrooculography |  NN   |       IEEE Transact NSRE       | 2002 |
-| Help paralyzed persons      | EOG guidance of a  wheelchair using neural network           |  NN   |              ICPR              | 2000 |
+### Fuziune de semnale
 
-
-
-### Combination of signals
-
-| Task/Application                         | Title                                                        |     Model      |                Publication                 | Year |
+| Aplicatie                         | Titlu                                                        |     Model      |                Publicatie                 | An |
 | ---------------------------------------- | ------------------------------------------------------------ | :------------: | :----------------------------------------: | :--: |
 | Sleep stage classification               | An  Automatic Sleep Staging Model Combining Feature Learning and Sequence  Learning |    CNN,LSTM    |                   ICACI                    | 2020 |
 | Sleep stage classification               | An  Automatic Sleep Staging Method Using a Multi-head and Sequence Network |    CNN,LSTM    |                   ICBIBE                   | 2020 |
