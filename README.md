@@ -630,14 +630,3 @@
 
 
 
-## Acknowledgement
-
-Yuanlai He, Ziyu Jia, and Xiyang Cai collaborated to organize and summarize the above papers.
-
-
-
-## More paper lists
-
-- [Sleep Stages Classification Papers](https://github.com/ziyujia/Sleep-Stages-Classification-Papers)
-- [Motor Imagery Papers](https://github.com/ziyujia/Motor-Imagery-Papers)
-- [Emotion Recognition Papers](https://github.com/ziyujia/Emotion-Recognition-Papers)
