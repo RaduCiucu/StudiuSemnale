@@ -4,7 +4,7 @@
   - [Electroencefalograma (EEG)](#eeg)
   - [Electrocardiograma (ECG)](#ecg)
   - [Electromiografie (EMG)](#emg)
-  - [Combination of signals](#fuziune-de-semnale)
+  - [Fuziune Semnale Multiple](#fuziune-de-semnale)
 
 
 ### EEG
