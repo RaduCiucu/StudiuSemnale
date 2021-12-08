@@ -5,7 +5,7 @@
   - [Electrocardiograma (ECG)](#ecg)
   - [Electromiografie (EMG)](#emg)
   - [Fuziune Semnale Multiple](#fuziune-de-semnale)
-  - [Seturi de date ppublice EEG](#EEG-Datasets)
+  - [Seturi de date publice EEG](#EEG-Datasets)
 
 
 ### EEG
