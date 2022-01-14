@@ -12,6 +12,11 @@
 
 | Aplicatie                                             | Titlu                                                        |         Model         |                 Publicatie                  | An |
 | ------------------------------------------------------------ | :----------------------------------------------------------- | :-------------------: | :------------------------------------------: | :--: |
+| Emotion classification                   | A Multi-Domain Adaptive Graph Convolutional Network for EEG-based Emotion Recognition |      MD-ACGN      |     ACM MM     |  2021 | 
+| Emotion classification                   | SparseDGCNN: Recognizing Emotion from Multichannel EEG Signals  |     DGCNN      |      IEEE Transactions on Affective Computing (TAC)     |  2021 | 
+| Emotion classification                   |Attention-based Spatio-Temporal Graphic LSTM for EEG Emotion Recognition |     LSTM      |      IJCNN     |  2021 | 
+| Emotion classification                   |Graph Embedded Convolutional Neural Network for Image-Based EEG Emotion Recognition |     GECNN      |       IEEE Transactions on Emerging Topics in Computing (TETC)     |  2021 | 
+
 | Motor  Imagery                                               | MMCNN:  A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery  Classification |          CNN          |                  ECML PKDD                   | 2021 |
 | Motor  Imagery                                               | Motor  imagery EEG recognition based on conditional optimization empirical mode  decomposition and multi-scale convolutional neural network |          CNN          |              Expert  Syst Appl               | 2020 |
 | Motor  Imagery                                               | Making  sense of spatio-temporal preserving representations for EEG-based human  intention recognition |       CNN, LSTM       |             IEEE  Trans. Cybern.             | 2020 |
@@ -599,7 +604,6 @@
 | Emotion classification                   | Using  deep convolutional neural network for emotion detection on a physiological  signals dataset (AMIGOS) |      CNN       |                IEEE  Access                | 2018 |
 | Emotion classification                   | Deep  belief network based affect recognition from physiological signals |      DBN       |                   UPCON                    | 2017 |
 | Emotion classification                   | EEG-Based  Emotion Recognition Using Hierarchical Network With Subnetwork Nodes |      SLFN      |      IEEE  Trans. Cogn. Devel. Syst.       | 2017 |
-| Emotion classification                   | A Multi-Domain Adaptive Graph Convolutional Network for EEG-based Emotion Recognition |      MD-ACGN      |     ACM MM     |  2021 | 
 
 
 # EEG-Datasets
