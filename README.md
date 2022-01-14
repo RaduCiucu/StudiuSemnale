@@ -599,6 +599,8 @@
 | Emotion classification                   | Using  deep convolutional neural network for emotion detection on a physiological  signals dataset (AMIGOS) |      CNN       |                IEEE  Access                | 2018 |
 | Emotion classification                   | Deep  belief network based affect recognition from physiological signals |      DBN       |                   UPCON                    | 2017 |
 | Emotion classification                   | EEG-Based  Emotion Recognition Using Hierarchical Network With Subnetwork Nodes |      SLFN      |      IEEE  Trans. Cogn. Devel. Syst.       | 2017 |
+| Emotion classification                   | A Multi-Domain Adaptive Graph Convolutional Network for EEG-based Emotion Recognition |      MD-ACGN      |     ACM MM     |  2021 | 
+
 
 # EEG-Datasets
 
@@ -628,7 +630,7 @@
   7. [SEED-VIG](http://bcmi.sjtu.edu.cn/~seed/seed-vig.html): Vigilance labels with EEG data in a simulated driving task. 18 electrodes and eye-tracking included.
   8. [HCI-Tagging](https://mahnob-db.eu/hci-tagging/): Subjetcs were shown video clips (fragments of movies) and they were asked to annotate the emotional state on the scale of valence and arousal. During the whole experiment, audio, video, gaze data and physiological data were recorded simultaneously with accurate synchronisation between sensors.
   9. [Regulation of Arousal](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory): 18 subjects going through an online flight simulator study with three different audio-feedback silence, sham and BCI. [[Article]](https://www.pnas.org/content/116/13/6482)
-  
+  10. [MPED](https://github.com/Tengfei000/MPED/): Four modal (EEG, ECG, ESP, GSR). Seven discrete emotions (joy, funny, anger, sadness, fear, disgust, neutrality)
   
 * **Error-Related Potentials (ErrP)**
   1. [BCI-NER Challenge](https://www.kaggle.com/c/inria-bci-challenge): 26 subjects, 56 EEG Channels for a P300 Speller task, and labeled dataset for the response elicited when P300 decodes a correct or incorrect letter.
