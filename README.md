@@ -16,7 +16,6 @@
 | Emotion classification                   | SparseDGCNN: Recognizing Emotion from Multichannel EEG Signals  |     DGCNN      |      IEEE Transactions on Affective Computing (TAC)     |  2021 | 
 | Emotion classification                   |Attention-based Spatio-Temporal Graphic LSTM for EEG Emotion Recognition |     LSTM      |      IJCNN     |  2021 | 
 | Emotion classification                   |Graph Embedded Convolutional Neural Network for Image-Based EEG Emotion Recognition |     GECNN      |       IEEE Transactions on Emerging Topics in Computing (TETC)     |  2021 | 
-
 | Motor  Imagery                                               | MMCNN:  A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery  Classification |          CNN          |                  ECML PKDD                   | 2021 |
 | Motor  Imagery                                               | Motor  imagery EEG recognition based on conditional optimization empirical mode  decomposition and multi-scale convolutional neural network |          CNN          |              Expert  Syst Appl               | 2020 |
 | Motor  Imagery                                               | Making  sense of spatio-temporal preserving representations for EEG-based human  intention recognition |       CNN, LSTM       |             IEEE  Trans. Cybern.             | 2020 |
